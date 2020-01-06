@@ -1,3 +1,3 @@
 # TEST2
 
-TestTestTestTestTestTestTestTestTestTestTestTest
+[a relative link](entwurfsspezifikation.md)
