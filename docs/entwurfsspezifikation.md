@@ -1,4 +1,4 @@
-# E-Glove TEST
+# E-Glove TEST2
 ## Entwurfsspezifikation
 ### Autoren
 Luis Deutsch
